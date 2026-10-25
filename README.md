@@ -402,6 +402,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/jira/0052CC" height="14"/> [tom28881/mcp-jira-server](https://github.com/tom28881/mcp-jira-server) - Comprehensive TypeScript MCP server for Jira with 20+ tools covering complete project management workflow: issue CRUD, sprint management, comments/history, attachments, batch operations. Features universal field auto-detection, full Czech/localization support, and date parsing with multiple formats. Created by [Tomáš Gregorovič](https://www.linkedin.com/in/tomáš-g-8423b61a2/).
 - <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
+- <img src="https://agenticweb.wiki/favicon.svg" height="14" /> [Agentic Web Wiki](https://github.com/agenticresources/agenticweb-wiki) - Standards reference, live domain readiness prober, manifest validator, and boilerplate generator for 132 agentic-web standards (`llms.txt`, `AGENTS.md`, `SKILL.md`, MCP Server Cards, RFC 9728, Web Bot Auth, x402, A2A) via remote Streamable HTTP (`https://agenticweb.wiki/mcp`).
 
 <br />
 
